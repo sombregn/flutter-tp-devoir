@@ -2,7 +2,7 @@ import 'dart:developer';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:note_app/home_page.dart';
+import 'package:note_app/pages/home_page.dart';
 import 'package:note_app/student.dart';
 
 class UpdateStudent extends StatefulWidget {

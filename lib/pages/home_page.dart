@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:note_app/add_student.dart';
+import 'package:note_app/pages/add_student.dart';
 import 'package:note_app/student.dart';
-import 'package:note_app/update_student.dart';
+import 'package:note_app/pages/update_student.dart';
 
 class HomePage extends StatelessWidget {
   final CollectionReference _reference =
